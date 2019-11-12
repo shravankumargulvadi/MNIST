@@ -1,2 +1,2 @@
-# Assignment-3
-This repository contains the assignment from the session 3 of EVA Course
+# EVA Assignment-3
+The goal is to achieve 99% accuracy on MNIST data set with <20K parameters
